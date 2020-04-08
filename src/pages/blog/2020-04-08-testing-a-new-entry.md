@@ -9,3 +9,7 @@ tags:
   - water
 ---
 Here is a new post
+
+
+
+![cup of coffee](/img/apple-touch-icon.png "coffee")
