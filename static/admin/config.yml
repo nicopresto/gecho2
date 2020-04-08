@@ -2,6 +2,7 @@ backend:
   name: github
   repo: nicopresto/gecho2
   branch: master
+  publish_mode: editorial_workflow
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
